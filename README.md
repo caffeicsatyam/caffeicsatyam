@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @knightmen
+- 👋 Hi, I’m Satyam Chaturvedi
 - 👀 I’m interested in leaning c++
 - 🌱 I’m currently learning c++ and know basics of c
 - 💞️ I’m looking to collaborate on ...
