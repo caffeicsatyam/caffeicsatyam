@@ -64,9 +64,8 @@
   </tr>
 </table>
 
----
-
-
-
 <!-- Footer Wave -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
+
+
+![snake animation](https://raw.githubusercontent.com/caffeicsatyam/caffeicsatyam/output/dist/github-contribution-grid-snake.svg)
