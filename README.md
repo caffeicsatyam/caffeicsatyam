@@ -8,6 +8,14 @@
 
 ---
 
+## 👁️ Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caffeicsatyam&label=Visitors&color=blue&style=for-the-badge" />
+</p>
+
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -40,32 +48,25 @@
 </p>
 
 ---
-
 ## 📊 GitHub Insights
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caffeicsatyam&theme=gotham&show_icons=true" />
-</p>
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caffeicsatyam&theme=dark&hide_border=true" />
-</p>
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeicsatyam&layout=compact&theme=gotham" />
-</p>
-
----
-
-## 👁️ Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caffeicsatyam&label=Visitors&color=blue&style=for-the-badge" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=caffeicsatyam&theme=gotham&show_icons=true" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=caffeicsatyam&theme=dark&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeicsatyam&layout=compact&theme=gotham" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 <!-- Footer Wave -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
