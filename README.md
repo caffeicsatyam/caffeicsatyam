@@ -51,7 +51,7 @@
 ---
 ## 📊 GitHub Insights
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=caffeicsatyam&theme=gotham&show_icons=true" />
@@ -63,7 +63,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeicsatyam&layout=compact&theme=gotham" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Footer Wave -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
