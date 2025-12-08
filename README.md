@@ -48,8 +48,6 @@
   <img src="https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white" />
 </p>
 
----
-## 📊 GitHub Insights
 
 <!-- <table align="center">
   <tr>
