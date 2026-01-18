@@ -5,6 +5,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
-
 
